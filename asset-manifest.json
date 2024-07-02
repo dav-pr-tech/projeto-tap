@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-tap/static/css/main.dc214552.css",
+    "main.js": "/projeto-tap/static/js/main.fcc2a4fe.js",
+    "static/js/453.063f0e20.chunk.js": "/projeto-tap/static/js/453.063f0e20.chunk.js",
+    "index.html": "/projeto-tap/index.html",
+    "main.dc214552.css.map": "/projeto-tap/static/css/main.dc214552.css.map",
+    "main.fcc2a4fe.js.map": "/projeto-tap/static/js/main.fcc2a4fe.js.map",
+    "453.063f0e20.chunk.js.map": "/projeto-tap/static/js/453.063f0e20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc214552.css",
+    "static/js/main.fcc2a4fe.js"
+  ]
+}
